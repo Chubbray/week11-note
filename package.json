@@ -1,0 +1,23 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chubbray/week11-note.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chubbray/week11-note/issues"
+  },
+  "homepage": "https://github.com/Chubbray/week11-note#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
